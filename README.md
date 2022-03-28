@@ -21,13 +21,13 @@
 <p align="center"> 
     <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" style="max-width:100; height:65px;"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" style="max-width:100; height:65px;"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" style="max-width:100; height:65px;"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" style="max-width:100; height:65px;"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/344/html-5--v1.png" style="max-width:100; height:65px;"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/344/css3.png" style="max-width:100; height:65px;"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="max-width:100; height:65px;"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" style="max-width:100; height:65px;"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/344/react-native.png" style="max-width:100; height:65px;"/> </a>
     <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.icons8.com/color/2x/ruby-programming-language.png" style="max-width:100; height:65px;"/> </a> 
-    <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.icons8.com/windows/2x/ruby-on-rails.png" style="max-width:100; height:65px;"/> </a>  
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" style="max-width:100; height:65px;"/> </a>
+    <a href="https://rubyonrails.org/" target="_blank"> <img src="https://img.icons8.com/windows/2x/ruby-on-rails.png" style="max-width:100; height:65px;"/> </a>  
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/344/mysql-logo.png" style="max-width:100; height:65px;"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" style="max-width:100; height:65px;"/> </a> 
    
 </p>
