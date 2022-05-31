@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact **I use to read books, I love to play Badminton and Chess as well.**
 
+- 👦🌐 **Connect with me** 👉 <a href="https://atultechd.github.io/myportfolio2/" color="blue">**Myportfolio** </a>
+
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
