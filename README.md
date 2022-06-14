@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="readme.png" height="175px"/></a>
+<img src="readme.png" alt="drawing" width="200"/>
 
 <h1 align="center">Hi 👋, I'm Atul Dwivedi</h1>
 <h3 align="center">I'm a student and passionate Full Stack Developer from India.</h3>
