@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://drive.google.com/file/d/1Mz_9-Px8yG3fbFhFuVrTHF62jJ_a3a6l/view?usp=sharing.png" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Atul Dwivedi</h1>
 <h3 align="center">I'm a student and passionate Full Stack Developer from India.</h3>
