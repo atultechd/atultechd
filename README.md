@@ -1,4 +1,6 @@
-<img src="readme.png" alt="drawing" width="200"/>
+<p align="center">
+    <img src="readme.png" alt="drawing" width="300"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Atul Dwivedi</h1>
 <h3 align="center">I'm a student and passionate Full Stack Developer from India.</h3>
