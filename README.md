@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="readme.png" alt="drawing" width="300"/>
+    <img src="readme.png" alt="drawing" width="350"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Atul Dwivedi</h1>
