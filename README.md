@@ -43,8 +43,13 @@
     </a>
 </p>
 
-### ✍️ Quote for now !!
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Quote for now !! 
+
+<br/>
+<p align= "center">
+    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)    
+</p>
+
 
 ## 📊 My Github Stats
 
