@@ -47,7 +47,7 @@
 
 <br/>
 <p align= "center">
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)]  
+    <a href="https://github.com/atultechd/atultechd" src="https://quotes-github-readme.vercel.app/api?type=vertical"></a>
 </p>
 
 
