@@ -43,11 +43,11 @@
     </a>
 </p>
 
-### ✍️ Quote for now !! 
+## ✍️ Quote for now !! 
 
 <br/>
 <p align= "center">
-    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)    
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)]  
 </p>
 
 
