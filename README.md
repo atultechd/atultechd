@@ -43,6 +43,9 @@
     </a>
 </p>
 
+### ✍️ Quote for now !!
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 📊 My Github Stats
 
  <br/>
